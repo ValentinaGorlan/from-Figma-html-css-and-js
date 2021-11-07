@@ -1,0 +1,10 @@
+/*tablet*/
+
+@media (max-width: 1024px) {
+  header .wrapper .logo {
+    display: none;
+  }
+  body {
+    background-color: #222222;
+  }
+}
